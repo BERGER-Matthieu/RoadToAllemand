@@ -8,9 +8,8 @@
 |Nous sommes|wir __sind__|
 |Vous êtes|ihr __seid__|
 |Ils sont|sie __sind__|
-| | |
 |Vous êtes|Sie __sind__|
-
+---
 |1|2|3|4|5|
 |-|-|-|-|-|
 |bin|bist|ist|sind|seid

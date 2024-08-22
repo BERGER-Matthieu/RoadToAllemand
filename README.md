@@ -1,1 +1,1 @@
-:shipit: test
+:shipit:
